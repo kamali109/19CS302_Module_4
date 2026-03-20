@@ -14,8 +14,8 @@ To write a C Program to copy a  string  into another string without using strcpy
 ```
 /*
  C Program to copy a  string  into another string without using strcpy() ,and find the total number of words in a given strings using for loop.
-Developed by: Mariam Sherin
-RegisterNumber: 212222060143
+Developed by: KAMALI.S
+RegisterNumber: 212222060109
 #include <stdio.h>
 #include <string.h>
  
